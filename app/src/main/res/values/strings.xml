@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SL freedom</string>
+    <string name="Pooch">fonts/afanan.ttf</string>
+    <string name="Poochr">fonts/rrm.ttf</string>
+    <string name="jhone">Little John</string>
+    <string name="by">by</string>
+    <string name="choosing">choosing</string>
+</resources>
